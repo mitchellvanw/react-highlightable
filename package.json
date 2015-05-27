@@ -3,7 +3,7 @@
   "main": "highlightable.js",
   "description": "Highlight values in your app when they're changed to emphasize them.",
   "author": "Mitchell van Wijngaarden",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
