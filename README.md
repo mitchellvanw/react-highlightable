@@ -9,9 +9,7 @@ React-highlightable
 
 ## Demo
 
-Try [this demo](http://google.com)
-
-Or `git clone http://github.com/mitchellvanw/react-highlightablee` and open `/examples/index.html`
+Try [this demo](http://google.com) or `git clone http://github.com/mitchellvanw/react-highlightable` and open `/examples/index.html`
 
 ## Installation
 
