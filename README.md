@@ -9,7 +9,9 @@ React-highlightable
 
 ## Demo
 
-Try [this demo](http://google.com) or `git clone http://github.com/mitchellvanw/react-highlightable` and open `/examples/index.html`
+![demo](react-highlightable-demo.gif)
+
+If you want to test this locally, then: `git clone http://github.com/mitchellvanw/react-highlightable` and open `/examples/index.html`
 
 ## Installation
 
