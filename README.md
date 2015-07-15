@@ -105,7 +105,7 @@ npm install react
 gulp
 ```
 - Copy&paste the address from terminal to your browser. (something like `http://localhost:8080`)
-- Don't commit the main build `highlightable ` (aka don't run `npm run build`)
+- Don't commit the main build `highlightable.js` (aka don't run `npm run build`)
 - Run `gulp eslint` before every commit to preserve the coding style. Do you know there is a [nice real-time checking integration for your editor](http://eslint.org/docs/user-guide/integrations)? ;-)
 
 
