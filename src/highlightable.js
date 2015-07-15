@@ -24,7 +24,7 @@ var Highlightable = React.createClass({
         };
     },
     componentWillUpdate(nextProps, nextState) {
-        if (this.props.highlightOnMount == false && ! nextProps.children)
+        if (this.props.highlightOnMount == false && ! nextProps.children || this.props.children == nextProps.children)
             return;
         var highlightedStyle = "padding: "+this.props.padding+"px; transition: "+this.props.transition+"; background: "+this.props.background+"; color: "+this.props.color+"; border-radius: "+this.props.borderRadius+"px";
         this.refs.highlightable.getDOMNode().setAttribute('style', highlightedStyle);
